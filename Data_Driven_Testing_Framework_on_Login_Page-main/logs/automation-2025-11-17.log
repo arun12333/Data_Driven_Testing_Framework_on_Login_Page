@@ -1,0 +1,51 @@
+01:24:09:0076 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:24:09:0076 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:24:17:0062 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:24:44:0789 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:25:10:0339 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:25:19:0444 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:25:19:0450 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:25:28:0789 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:25:28:0805 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:25:35:0710 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:25:35:0710 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:26:14:0440 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:26:14:0449 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:26:15:0357 [main] ERROR TestCasess.TC001 - org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [dd3335eb85c259a432c29d10321bacbe47d11394, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.60, chrome: {chromedriverVersion: 142.0.7444.59 (4b8153ab58d3..., userDataDir: C:\Windows\proxy\scoped_dir...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:6553}, goog:processID: 13104, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: dd3335eb85c259a432c29d10321...}
+Session ID: dd3335eb85c259a432c29d10321bacbe47d11394
+01:26:50:0655 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:26:59:0821 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:26:59:0851 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:27:09:0721 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:27:09:0721 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:27:16:0354 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:27:16:0367 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:27:25:0513 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:27:25:0526 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:27:33:0600 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:28:37:0506 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:28:44:0551 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:28:44:0570 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:28:53:0667 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:28:53:0667 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:28:59:0567 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:28:59:0567 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:29:08:0592 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+01:29:08:0601 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+01:29:16:0641 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+22:12:26:0753 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+22:12:34:0095 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+22:12:34:0125 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+22:12:43:0064 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+22:12:43:0071 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+22:12:49:0395 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+22:12:49:0395 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+22:12:58:0291 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+22:12:58:0291 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
+22:13:06:0342 [main] INFO  TestCasess.TC001 - ****** Finished TC003_LoginDDT ******
+22:22:59:0942 [main] INFO  TestCasess.TC001 - ***** Starting TC003_LoginDDT ******
